@@ -1,2 +1,12 @@
-# mondrian-solver
-An application of the beam search algorithm for solving the mondrian tiling problem
+# Beam Search Algorithm for Solving the Mondrian Tiling Problem
+
+## Problem
+
+
+## States and Actions
+
+
+## Solving Algorithm
+
+
+## Effectiveness
