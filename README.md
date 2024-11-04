@@ -1,7 +1,7 @@
 # Beam Search Algorithm for Solving the Mondrian Tiling Problem
 
 ## Problem
-The [Mondrian tiling problem](https://demonstrations.wolfram.com/MondrianArtProblem/) is an optimisation problem where given an nxn square, the aim is to divide the square into non-congruent rectangles in a way that minimises the difference between the area of the largest and smallest rectangle. For this assignment, we had to design and implement an agent to solve this problem for any given n, including the design and implementation of the problem states and actions and a visual representation of the agent's solution for a given tiling. 
+The [Mondrian tiling problem](https://demonstrations.wolfram.com/MondrianArtProblem/) is an optimisation problem where given an n x n square, the aim is to divide the square into non-congruent rectangles in a way that minimises the difference between the area of the largest and smallest rectangle. For this assignment, we had to design and implement an agent to solve this problem for any given n, including the design and implementation of the problem states and actions and a visual representation of the agent's solution for a given tiling. This was an assignment for a 4th year university course.
 
 ## States and Actions
 I chose to design the states and actions as follows:
